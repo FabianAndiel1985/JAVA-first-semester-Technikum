@@ -1,0 +1,36 @@
+0		#use_this_main korrekt eingebunden?
+1	23	45			#encode
+1	5	3	#encode
+1	5	12	#encode
+1	15	12	#encode
+1	0	0	#encode
+1	23	59	#encode
+2	23	45	#read
+2	5	3	#read
+2	5	12	#read
+2	15	12	#read
+2	0	0	#read
+2	23	59	#read
+3	23	45	#hours/minutes
+3	5	3	#hours/minutes
+3	5	12	#hours/minutes
+3	15	12	#hours/minutes
+3	0	0	#hours/minutes
+3	23	59	#hours/minutes
+4	23	45	#print
+4	0	0	#print
+4	0	9	#print
+4	9	9	#print
+4	19	0	#print
+4	23	59	#print
+5	20	15	2	33		#add 
+5	5	35	13	40			#add 
+5	23	12	1	0		#add 
+5	22	45	4	32		#add 
+5	23	59	23	59		#add 
+6	23	45		#total_minutes
+6	5	3		#total_minutes
+6	5	12		#total_minutes
+6	15	12		#total_minutes
+6	0	0		#total_minutes
+6	23	59		#total_minutes

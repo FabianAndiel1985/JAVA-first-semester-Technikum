@@ -1,0 +1,8 @@
+1 	2 	1		# T-bone, medium rare, Bread (example 1)
+2 	5 	2 	1		# Sirloin, well done, French fries (example 2)
+3 	3 	2 	2		# Rib eye, medium, Wedges
+3	4 	2 	3 	2 		# Rib eye, medium well done, Baked potatoes, French dressing (ex3)
+2 	3 	2 	2		# Sirloin, medium, Wedges
+3	1	1			# Rib eye, rare, Bread
+1	5	2	3	1			# T-bone, well done, Baked Potatoes, Garlic topping
+1	5	2	3	3			# T-bone, well done, Baked Potatoes, Buttered

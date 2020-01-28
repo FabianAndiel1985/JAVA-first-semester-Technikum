@@ -1,0 +1,1 @@
+yyyymmdd: Monday

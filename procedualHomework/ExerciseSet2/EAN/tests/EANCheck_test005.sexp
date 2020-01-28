@@ -1,0 +1,1 @@
+Enter all 13 digits of an EAN: The EAN is NOT VALID.

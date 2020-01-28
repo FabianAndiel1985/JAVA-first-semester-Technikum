@@ -1,0 +1,16 @@
+121.5	1.96		#adipoes Grad I
+115.5	1.65		#adipoes Grad III
+110	1.70		#adipoes Grad II
+95	1.70		#adipoes Grad I
+90	1.80		#praeadipoes
+70	1.80		#normalgewichtig
+50	1.70		#leicht untergewichtig
+50	1.80		#stark untergewichtig
+50	1.75		#maessig untergewichtig
+0	1.75		#ungueltiges Gewicht
+70	0		#ungueltige Groesse
+39.9	1.70		#ungueltiges Gewicht
+40.0	1.70		#stark untergewichtig
+50	1.59		#ungueltige Groesse
+50	1.60		#normalgewichtig
+40	1.60		#stark untergewichtig

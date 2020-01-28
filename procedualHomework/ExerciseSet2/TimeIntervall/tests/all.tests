@@ -1,0 +1,5 @@
+1220	1435		#12:20, 14:35
+1220	700		#not valid
+2320	2420		#time format error
+2160	2320		#time format error
+720	1300		#regular case

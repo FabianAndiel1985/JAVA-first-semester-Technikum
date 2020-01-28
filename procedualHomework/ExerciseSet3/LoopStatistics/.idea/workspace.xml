@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41ed88b8-bfbe-4695-8e67-aa9e0d1cb4b0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1S4IOgS3HDpv8cFzUWUgEMs5lyh" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LoopStatisticsTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopStatistics.Main" />
+      <module name="LoopStatistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoopStatistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopStatisticsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LoopStatistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoopStatistics.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LoopStatistics.tests" />
+      <option name="MAIN_CLASS_NAME" value="LoopStatistics.tests.LoopStatisticsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopStatisticsTest.testMain" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LoopStatistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoopStatistics.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LoopStatistics.tests" />
+      <option name="MAIN_CLASS_NAME" value="LoopStatistics.tests.LoopStatisticsTest" />
+      <option name="METHOD_NAME" value="testMain" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoopStatisticsTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.LoopStatisticsTest.testMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ed88b8-bfbe-4695-8e67-aa9e0d1cb4b0" name="Default Changelist" comment="" />
+      <created>1570816410979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570816410979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LoopStatistics$LoopStatisticsTest.ic" NAME="LoopStatisticsTest Coverage Results" MODIFIED="1571036491035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LoopStatistics.tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>

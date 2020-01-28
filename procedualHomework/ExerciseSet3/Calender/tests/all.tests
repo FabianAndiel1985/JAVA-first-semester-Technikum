@@ -1,0 +1,7 @@
+31 3		#example
+31 1			#start on MO
+30 7			#start on SUN end on MON
+28 6			#start on SAT end on FRI
+30 7			#start on SUN end on MON
+29 4			#start on THU end on THU
+28 1			#example 2
